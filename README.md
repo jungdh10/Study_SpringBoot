@@ -6,3 +6,5 @@
 (master branch에 올린 파일 삭제)
 
 (git 기본 브랜치를 master에서 main으로 변경) 
+
+2. 정적 페이지 만들기   
