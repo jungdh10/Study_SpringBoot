@@ -9,4 +9,6 @@
 
 2. 정적 페이지 만들기
 
-3. welcome page 만들기  
+3. welcome page 만들기
+
+4. 정적 컨텐츠   
