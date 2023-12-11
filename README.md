@@ -15,4 +15,4 @@
 
 5. MVC와 템플릿 엔진
 
-6. API    
+6. API(문자 방식, 객체 방식(ResponseBody)   
