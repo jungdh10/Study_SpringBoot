@@ -15,4 +15,6 @@
 
 5. MVC와 템플릿 엔진
 
-6. API(문자 방식, 객체 방식(ResponseBody)   
+6. API(문자 방식, 객체 방식(ResponseBody)
+
+7. 회원 도메인과 저장소 만들기   
